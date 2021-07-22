@@ -5,10 +5,15 @@ Made by Scr1pp3d - This checks invites and tells you which ones are valid and wh
 # About
 This was made by Scr1pp3d with the following:
       - colors (to change the text colour)
+      <br>
       - dialog (for dialog box (doesn't work))
+      <br>
       - node-bash-title (to change the name of the console)
+      <br>
       - pkg (to package the file into an .exe file)
+      <br>
       - prompt-sync (do ask the user a question (asking for the links)
+      <br>
       - puppeteer (for web scraping and checking if the invite is valid)
 
 # Installation

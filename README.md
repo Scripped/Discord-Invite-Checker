@@ -2,6 +2,15 @@
 Made by Scr1pp3d - This checks invites and tells you which ones are valid and which ones aren't.
 <img src="11.png">
 
+# About
+This was made by Scr1pp3d with the following:
+      - colors (to change the text colour)
+      - dialog (for dialog box (doesn't work))
+      - node-bash-title (to change the name of the console)
+      - pkg (to package the file into an .exe file)
+      - prompt-sync (do ask the user a question (asking for the links)
+      - puppeteer (for web scraping and checking if the invite is valid)
+
 # Installation
 
 1. Go on <a href="https://github.com/Scripped/Discord-Invite-Checker/tags">releases</a> and download the most recent one.
